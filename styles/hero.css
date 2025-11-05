@@ -4,14 +4,12 @@
     grid-template-columns: 1fr 1fr;
     padding: 45px 0px 0px 0px;
     margin-top: -4px;
-    /* margin-bottom: -4px; */
     color: #ffffff;
 }
 
 /* left column */
 .hero-section > .left-text {
     display: flex;
-    /* align-items: center; */
     flex-direction: column;
     width: 680px;
     padding: 0px 90px 0px 50px;
